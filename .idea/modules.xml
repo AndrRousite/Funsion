@@ -3,11 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Funsion.iml" filepath="$PROJECT_DIR$/Funsion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funsion.iml" filepath="$PROJECT_DIR$/Funsion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/geetionlib/geetionlib.iml" filepath="$PROJECT_DIR$/geetionlib/geetionlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geetionlib/geetionlib.iml" filepath="$PROJECT_DIR$/geetionlib/geetionlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/http/http.iml" filepath="$PROJECT_DIR$/library/http/http.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/http/http.iml" filepath="$PROJECT_DIR$/library/http/http.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/photoview/photoview.iml" filepath="$PROJECT_DIR$/library/photoview/photoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/photoview/photoview.iml" filepath="$PROJECT_DIR$/library/photoview/photoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/xrecyclerview/xrecyclerview.iml" filepath="$PROJECT_DIR$/library/xrecyclerview/xrecyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/xrecyclerview/xrecyclerview.iml" filepath="$PROJECT_DIR$/library/xrecyclerview/xrecyclerview.iml" />
     </modules>
   </component>
